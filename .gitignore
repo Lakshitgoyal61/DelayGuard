@@ -1,0 +1,14 @@
+# trained models are rebuilt automatically on first run (about 30 s)
+delivery_web/model_cache/
+
+# local / generated files
+delivery_web/.deps_ok
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Office lock files and OS clutter
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
